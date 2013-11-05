@@ -16,7 +16,6 @@ module ApplicationHelper
       help: [
         ["Overview", :help],
         ["Teach or TA", :teach],
-        ["Teacher Advice", :teacher_advice],
         ["Organize an Event", :organize],
         ["Host an Event", :host],
         ["Donate", :donate],

@@ -13,9 +13,6 @@ class StaticPagesController < ApplicationController
   def teach
   end
 
-  def teacher_advice
-  end
-
   def organize
   end
 
